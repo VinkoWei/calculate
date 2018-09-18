@@ -1,2 +1,2 @@
 # calculate
-![show](calculate/app/src/main/res/show.png)
+![show](app/src/main/res/show.png)
